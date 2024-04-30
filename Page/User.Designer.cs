@@ -40,7 +40,7 @@
             linkLabel1.TabIndex = 4;
             linkLabel1.TabStop = true;
             linkLabel1.Text = "Ma'lumotlar tayyorlandi!";
-            linkLabel1.LinkClicked += linkLabel1_LinkClicked_1;
+            linkLabel1.LinkClicked += linkLabel1_LinkClicked;
             // 
             // User
             // 
