@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Sarvar Jabborov",
+    "UserName": "sarvar",
+    "Password": "0804",
+    "Email": null,
+    "Role": "SuperAdmin"
+  },
+  {
+    "Id": 2,
+    "FullName": "Jamshid K",
+    "UserName": "jamshid",
+    "Password": "0000",
+    "Email": "@.",
+    "Role": "User"
+  },
+  {
+    "Id": 3,
+    "FullName": "salom ",
+    "UserName": "salom",
+    "Password": "salom",
+    "Email": "@.",
+    "Role": "User"
+  }
+]
